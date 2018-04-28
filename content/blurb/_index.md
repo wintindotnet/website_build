@@ -11,7 +11,7 @@ Wintin 95 and Wintin.Net are Mud clients that support the popular Tintin++ scrip
 
 ## Wintin 95 ##
 
-Wintin 95 was a port of Tintin++ to Windows. Click on the 'Download' link to the left download it. Save it in the folder you want to run Wintin from: preferably an empty folder.  When the file has downloaded, double-click on it to install Wintin. Then double-click on Wintin95.exe to run it. You can find some support and information on the archived website available from the Wayback Machine - click on the Website Archive link.
+Wintin 95 is a port of Tintin++ to Windows. Click on the 'Download' link to the left download it. Save it in the folder you want to run Wintin from: preferably an empty folder.  When the file has downloaded, double-click on it to install Wintin. Then double-click on Wintin95.exe to run it. You can find some support and information on the archived website available from the Wayback Machine - click on the Website Archive link.
 
 ## Wintin.Net ##
 
