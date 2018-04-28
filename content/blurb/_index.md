@@ -17,7 +17,7 @@ Wintin 95 is a port of Tintin++ to Windows. Click on the 'Download' link to the 
 
 Wintin.Net has a ground-up re-implementation of the Tintin++ script language, with some extensions. It's also possible to write script in .Net-based languages such as VB.Net and c#. Wintin.Net uses the putty terminal client code and has pretty complete ANSI terminal support. 
 
-To install, first download and install the .Net framework v1.1 (use the link to the left to download it). Microsoft designed the .Net framework so that different versions can be installed side-by-side on your computer: installing this version will not interfere with any later ones that might have been installed. Next	 download Wintin.Net, unzip it and run Setup.exe. Again, you can find some additional info in the Wayback Machine's archive by clicking on the Website Archive link. 
+To install, first download the .Net framework v1.1. To install it, open the folder in which it downloaded, right-click and select 'Run as Administrator'. (use the link to the left to download it). Microsoft designed the .Net framework so that different versions can be installed side-by-side on your computer: installing this version will not interfere with any later ones that might have been installed. Next	 download Wintin.Net, unzip it and run Setup.exe. Again, you can find some additional info in the Wayback Machine's archive by clicking on the Website Archive link. 
 
 It's possible to write addins for Wintin.Net that will support additional commands. The #system addin (which is available for download) adds the #system command, which runs a DOS command from Wintin's command line. Documentation on writing addins is available, along with a sample prototype in VB.Net.
 
