@@ -1,0 +1,59 @@
+baseURL = "/"
+languageCode = "en-us"
+
+title = "Wintin .Net and 95"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+externalTitle = "Downloads"
+sidebarColor = "default"
+customCss = []
+
+[[menu.shortcuts]]
+name = "Wintin.Net"
+url = "https://sourceforge.net/projects/wintin/files/latest/download"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Wintin.Net Source Code"
+url = "http://sourceforge.net/projects/wintin/"
+weight = 15
+
+[[menu.shortcuts]]
+name = "."
+url = ""
+weight = 16
+
+[[menu.shortcuts]]
+name = "Wintin 95"
+url = "https://github.com/jsnjack/kraiklyn"
+weight = 20
+
+[[menu.shortcuts]]
+name = "Wintin 95 Help File"
+url = "https://github.com/jsnjack/kraiklyn"
+weight = 20
+
+[[menu.shortcuts]]
+name = "Wintin 95 Source Code"
+url = "https://github.com/jsnjack/kraiklyn"
+weight = 25
+
+[[menu.shortcuts]]
+name = ".."
+url = ""
+weight = 26
+
+[[menu.shortcuts]]
+name = "Wintin.Net Website Archive"
+url = "https://web.archive.org/web/20180308130030/www.wintin.org"
+weight = 30
+
+[[menu.shortcuts]]
+name = "Wintin 95 Website Archive"
+url = "https://web.archive.org/web/20160404231656/http://www.rasbora.freeserve.co.uk/wintin.htm"
+weight = 35
+
