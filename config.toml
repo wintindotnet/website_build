@@ -14,7 +14,7 @@ customCss = []
 
 [[menu.shortcuts]]
 name = "Wintin.Net"
-url = "https://sourceforge.net/projects/wintin/files/latest/download"
+url = "WinTin_experimental_installer_for_Win7.7z"
 weight = 10
 
 [[menu.shortcuts]]
@@ -29,17 +29,17 @@ weight = 16
 
 [[menu.shortcuts]]
 name = "Wintin 95"
-url = "https://github.com/jsnjack/kraiklyn"
+url = "wint173.exe"
 weight = 20
 
 [[menu.shortcuts]]
 name = "Wintin 95 Help File"
-url = "https://github.com/jsnjack/kraiklyn"
+url = "winhlp.htm"
 weight = 20
 
 [[menu.shortcuts]]
 name = "Wintin 95 Source Code"
-url = "https://github.com/jsnjack/kraiklyn"
+url = "wintin95_src.zip"
 weight = 25
 
 [[menu.shortcuts]]
