@@ -12,15 +12,21 @@ externalTitle = "Downloads"
 sidebarColor = "default"
 customCss = []
 
+
 [[menu.shortcuts]]
-name = "Wintin.Net"
-url = "WinTin_experimental_installer_for_Win7.7z"
+name = "Wintin 95"
+url = "wint173.exe"
 weight = 10
 
 [[menu.shortcuts]]
-name = "Wintin.Net Source Code"
-url = "http://sourceforge.net/projects/wintin/"
-weight = 15
+name = "Wintin 95 Help File"
+url = "winhlp.htm"
+weight = 11
+
+[[menu.shortcuts]]
+name = "Wintin 95 Source Code"
+url = "wintin95_src.zip"
+weight = 12
 
 [[menu.shortcuts]]
 name = "."
@@ -28,32 +34,63 @@ url = ""
 weight = 16
 
 [[menu.shortcuts]]
-name = "Wintin 95"
-url = "wint173.exe"
-weight = 20
+name = "Wintin.Net"
+url = "wintin.net.zip"
+weight = 21
 
 [[menu.shortcuts]]
-name = "Wintin 95 Help File"
-url = "winhlp.htm"
-weight = 20
+name = "Wintin.Net Source Code"
+url = "http://sourceforge.net/projects/wintin/"
+weight = 22
 
 [[menu.shortcuts]]
-name = "Wintin 95 Source Code"
-url = "wintin95_src.zip"
+name = ".Net Framework 1.1"
+url = "dotnetfx.exe"
 weight = 25
+
+[[menu.shortcuts]]
+name = "Wintin.Net"
+url = "wintin.net.zip"
+weight = 26
+
+[[menu.shortcuts]]
+name = "Wintin.Net Source Code"
+url = "http://sourceforge.net/projects/wintin/"
+weight = 27
+
 
 [[menu.shortcuts]]
 name = ".."
 url = ""
-weight = 26
+weight = 30
+
+[[menu.shortcuts]]
+name = "#system Addin"
+url = "Sysaddin-Setup.msi"
+weight = 31
+
+[[menu.shortcuts]]
+name = "Writing Addins"
+url = "wintin.net.addin.zip"
+weight = 32
+
+[[menu.shortcuts]]
+name = "Sample Addin"
+url = "VBTestAddin.zip"
+weight = 33
+
+[[menu.shortcuts]]
+name = "..."
+url = ""
+weight = 36
 
 [[menu.shortcuts]]
 name = "Wintin.Net Website Archive"
 url = "https://web.archive.org/web/20180308130030/www.wintin.org"
-weight = 30
+weight = 40
 
 [[menu.shortcuts]]
 name = "Wintin 95 Website Archive"
 url = "https://web.archive.org/web/20160404231656/http://www.rasbora.freeserve.co.uk/wintin.htm"
-weight = 35
+weight = 45
 
